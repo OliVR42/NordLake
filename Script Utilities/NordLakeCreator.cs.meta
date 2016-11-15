@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 02b70759ba8b84444bf2989540836859
+timeCreated: 1476792435
+licenseType: Pro
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - terrainReference: {instanceID: 0}
+  - shader: {fileID: 4800000, guid: 2f43b7123e14467479664638718d743e, type: 3}
+  - normalShader: {fileID: 4800000, guid: 1ab2b2f77bea8f04dad3ec97ba26d0c1, type: 3}
+  - renderCamObject: {instanceID: 0}
+  - cam: {instanceID: 0}
+  - ter: {instanceID: 0}
+  - depthTex: {instanceID: 0}
+  - lakeMat: {instanceID: 0}
+  - gObjectMeshRenderer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
